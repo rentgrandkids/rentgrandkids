@@ -1,22 +1,22 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: "2.0.0"
-id: 00000000-0000-7000-8000-000000000011
+schemaVersion: 2.0.0
+id: 01a1af13-cb10-72cd-ac47-09169b8aa172
 kind: page
 title: About
 language: en-US
 authors:
-  - 00000000-0000-7000-8000-000000000002
+- 01a1af13-cb0f-7330-a30c-d5a600066dc6
 tags: []
 status: published
-createdAt: "2026-09-27T00:00:00.000Z"
-publishedAt: "2026-09-27T00:00:00.000Z"
+createdAt: '2026-11-06T04:17:52.399Z'
+publishedAt: '2026-11-06T04:17:52.399Z'
 slug: about
 redirects: []
 extensions: {}
 ---
 
-PLACEHOLDER-SITE-TITLE is written by PLACEHOLDER-AUTHOR-NAME.
+rentgrandkids is written by atharvnr.
 
 This publication is a place for considered work: finished essays, useful field
 notes, and the ideas that become clearer through writing.
